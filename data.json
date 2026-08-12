@@ -27,6 +27,20 @@
       "category": "Graduation Announcements",
       "image": "assets/graduation-announcement-sprayberry-high-school.jpg",
       "description": "A Sprayberry High School graduation design. Concept only, this one hasn't been stitched yet."
+    },
+    {
+      "id": 5,
+      "title": "Illinois State Pillow",
+      "category": "State Maps",
+      "image": "assets/illinois-state-map-pillow.jpg",
+      "description": "An Illinois map stitched with the state's cities, flower, and farm scenes, then made up into a pillow with a braided trim."
+    },
+    {
+      "id": 6,
+      "title": "Minnesota & Wisconsin, Framed",
+      "category": "State Maps",
+      "image": "assets/framed-state-maps-minnesota-wisconsin.jpg",
+      "description": "Two more state maps, stitched and framed to hang together as a set."
     }
   ]
 }
