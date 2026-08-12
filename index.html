@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Angi's Tiny Stitches &mdash; personalized, hand-stitched cross stitch stockings, ornaments, and graduation announcements made to order.">
+<title>Angi's Tiny Stitches &mdash; Custom Cross Stitch</title>
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:wght@700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body id="top">
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="#top" aria-label="Angi's Tiny Stitches, home">
+      <span class="logo-mark" aria-hidden="true">
+        <img src="assets/logo.svg" alt="" width="46" height="46">
+      </span>
+      <span class="logo-type">
+        <span class="logo-name">Angi&rsquo;s Tiny Stitches</span>
+        <span class="logo-sub">Hand&#8209;stitched &amp; personalized</span>
+      </span>
+    </a>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav" id="site-nav">
+      <a href="#gallery">Gallery</a>
+      <a href="#about">How It Works</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-body">
+      <div class="hero-text">
+        <h1>Hi, I'm Angi. I stitch things by hand.</h1>
+        <p>I make personalized, custom cross stitch pieces &mdash; stockings, ornaments, graduation announcements, you name it. Every piece is stitched one at a time, just for the person it's going to.</p>
+        <p>Got something specific in mind? I team up with a design artist who can put together almost any design on her computer, and from there, I'll stitch it.</p>
+      </div>
+      <div class="hero-photos">
+        <img src="assets/christmas-stocking-taylor.jpg" alt="Custom Christmas stocking, personalized cross stitch">
+        <img src="assets/graduation-announcement-kell-high-school.jpg" alt="Custom graduation announcement cross stitch">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="gallery-section reveal" id="gallery">
+  <div class="wrap">
+    <h2 class="section-title">Some Things I've Made</h2>
+    <p class="section-sub">A few finished pieces &mdash; click one to see it up close</p>
+    <div class="filters" id="filters"></div>
+    <div class="gallery-grid" id="gallery-grid">
+      <p class="gallery-empty">Loading gallery&hellip;</p>
+    </div>
+  </div>
+</section>
+
+<section class="about-section reveal" id="about">
+  <div class="wrap">
+    <h2 class="section-title">How a Piece Comes Together</h2>
+    <p class="section-sub">It's a two-step process, and I handle both</p>
+    <div class="about-grid">
+      <div class="about-card">
+        <h3>We figure out the design</h3>
+        <p>Tell me what you're picturing &mdash; a name, a date, a favorite memory, your own artwork. My design artist can lay it out on her computer, and once you're happy with it, I get stitching.</p>
+      </div>
+      <div class="about-card">
+        <h3>I put it all together</h3>
+        <p>If you're going with a stocking or ornament, I work with a sewer to get it fully assembled and ready to use &mdash; not just stitched. We'll sort that part out once you reach out.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="contact-section reveal" id="contact">
+  <div class="wrap">
+    <h2 class="section-title">Let's Talk About Your Piece</h2>
+    <p>Send me an email or give me a call with what you're thinking, and we'll go from there.</p>
+    <a class="email-btn" href="mailto:Ariel8612@icloud.com?subject=Custom%20Cross%20Stitch%20Inquiry">Ariel8612@icloud.com</a>
+    <div class="phone-row">
+      <span>Or give me a call:</span>
+      <a class="phone-link" href="tel:+16785960254">(678) 596-0254</a>
+    </div>
+    <p class="pricing-note">Cost depends on the size and detail of the project &mdash; happy to give you an estimate once I know what you have in mind. Happy stitching!</p>
+  </div>
+</section>
+
+<footer>
+  &copy; <span id="year"></span> Angi&rsquo;s Tiny Stitches. Every piece made to order.
+</footer>
+
+<div class="lightbox" id="lightbox">
+  <div class="lightbox-inner">
+    <button class="lightbox-close" id="lightbox-close" aria-label="Close">&times;</button>
+    <img id="lightbox-img" src="" alt="">
+    <div class="lightbox-info">
+      <div class="card-cat" id="lightbox-cat"></div>
+      <h3 id="lightbox-title"></h3>
+      <p id="lightbox-desc"></p>
+    </div>
+  </div>
+</div>
+
+<button class="back-to-top" id="back-to-top" aria-label="Back to top">&uarr;</button>
+<script src="script.js"></script>
+</body>
+</html>
