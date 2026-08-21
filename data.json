@@ -5,42 +5,147 @@
       "title": "Taylor's Christmas Stocking",
       "category": "Stockings",
       "image": "assets/christmas-stocking-taylor.jpg",
-      "description": "Stitched for Taylor, with his name worked right into the design."
+      "description": "Taylor's name is worked right into the design."
     },
     {
       "id": 2,
       "title": "David's Christmas Stocking",
       "category": "Stockings",
       "image": "assets/christmas-stocking-david.jpg",
-      "description": "A North Pole scene stocking, made for David and put together start to finish."
+      "description": "A North Pole scene for David. Stitched, sewn, and finished."
     },
     {
       "id": 3,
       "title": "Kell High School Graduation",
       "category": "Graduation Announcements",
       "image": "assets/graduation-announcement-kell-high-school.jpg",
-      "description": "Made for my son Patrick's graduation from Kell High School."
+      "description": "My son Patrick's, for his graduation from Kell High School."
     },
     {
       "id": 4,
       "title": "Sprayberry High School Graduation",
       "category": "Graduation Announcements",
       "image": "assets/graduation-announcement-sprayberry-high-school.jpg",
-      "description": "A Sprayberry High School graduation design. Concept only, this one hasn't been stitched yet."
+      "description": "A design for Sprayberry High School. This one's a concept, I haven't stitched it yet."
     },
     {
       "id": 5,
       "title": "Illinois State Pillow",
       "category": "State Maps",
       "image": "assets/illinois-state-map-pillow.jpg",
-      "description": "An Illinois map stitched with the state's cities, flower, and farm scenes, then made up into a pillow with a braided trim."
+      "description": "The state's cities, its flower, and farm scenes across the middle. Made up as a pillow with braided trim."
     },
     {
       "id": 6,
       "title": "Minnesota & Wisconsin, Framed",
       "category": "State Maps",
       "image": "assets/framed-state-maps-minnesota-wisconsin.jpg",
-      "description": "Two more state maps, stitched and framed to hang together as a set."
+      "description": "Two more state maps, framed to hang as a pair."
+    },
+    {
+      "id": 7,
+      "title": "Angi's Christmas Stocking",
+      "category": "Stockings",
+      "image": "assets/christmas-stocking-angi.jpg",
+      "description": "Santa coming down the chimney. My own name across the cuff."
+    },
+    {
+      "id": 8,
+      "title": "Chris's Christmas Stocking",
+      "category": "Stockings",
+      "image": "assets/christmas-stocking-chris.jpg",
+      "description": "Santa riding his reindeer out through snowy woods."
+    },
+    {
+      "id": 9,
+      "title": "James's Christmas Stocking",
+      "category": "Stockings",
+      "image": "assets/christmas-stocking-james.jpg",
+      "description": "A reindeer, a snowman, and a pile of teddy bears under the tree."
+    },
+    {
+      "id": 10,
+      "title": "Mike's Christmas Stocking",
+      "category": "Stockings",
+      "image": "assets/christmas-stocking-mike.jpg",
+      "description": "A gingerbread house with a crowd of gingerbread people out front."
+    },
+    {
+      "id": 11,
+      "title": "Jane's Christmas Stocking",
+      "category": "Stockings",
+      "image": "assets/christmas-stocking-jane.jpg",
+      "description": "The nativity with angels and wise men, in soft pastels."
+    },
+    {
+      "id": 12,
+      "title": "Patrick's Christmas Stocking",
+      "category": "Stockings",
+      "image": "assets/christmas-stocking-patrick.jpg",
+      "description": "Penguins skating at the North Pole while Santa's sleigh passes overhead."
+    },
+    {
+      "id": 13,
+      "title": "Robin's Christmas Stocking",
+      "category": "Stockings",
+      "image": "assets/christmas-stocking-robin.jpg",
+      "description": "Santa and a snowman trim the tree. The woodland animals help."
+    },
+    {
+      "id": 14,
+      "title": "Tom's Christmas Stocking",
+      "category": "Stockings",
+      "image": "assets/christmas-stocking-tom.jpg",
+      "description": "The manger under a holly arch, in quiet colors."
+    },
+    {
+      "id": 15,
+      "title": "Halloween Ornament Set",
+      "category": "Ornaments",
+      "image": "assets/halloween-ornament-set.jpg",
+      "description": "All six together. Every one is beaded, sequined, and hung on a ribbon."
+    },
+    {
+      "id": 16,
+      "title": "Jack-o-Lantern Ornament",
+      "category": "Ornaments",
+      "image": "assets/halloween-ornament-jack-o-lantern.jpg",
+      "description": "A grinning pumpkin in a beaded witch hat. Sequins for eyes."
+    },
+    {
+      "id": 17,
+      "title": "Owl in a Witch Hat",
+      "category": "Ornaments",
+      "image": "assets/halloween-ornament-owl-witch-hat.jpg",
+      "description": "A little white owl under a purple hat, gold star sequins scattered across it."
+    },
+    {
+      "id": 18,
+      "title": "Owl and Full Moon",
+      "category": "Ornaments",
+      "image": "assets/halloween-ornament-owl-full-moon.jpg",
+      "description": "A black owl against the full moon, beaded across the chest and eyes."
+    },
+    {
+      "id": 19,
+      "title": "Spider Web Ornament",
+      "category": "Ornaments",
+      "image": "assets/halloween-ornament-spider-web.jpg",
+      "description": "One sequined spider, sitting dead center in a beaded web."
+    },
+    {
+      "id": 20,
+      "title": "Haunted House Ornament",
+      "category": "Ornaments",
+      "image": "assets/halloween-ornament-haunted-house.jpg",
+      "description": "Orange and purple, with beaded ghosts drifting past the windows."
+    },
+    {
+      "id": 21,
+      "title": "Tombstone Ornament",
+      "category": "Ornaments",
+      "image": "assets/halloween-ornament-tombstone.jpg",
+      "description": "A skull over an R.I.P. stone. Beadwork throughout, sequins for the eyes."
     }
   ]
 }

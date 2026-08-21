@@ -86,7 +86,7 @@ function renderGrid() {
     const card = document.createElement('div');
     card.className = 'gallery-card';
     card.innerHTML = `
-      <img src="${item.image}" alt="${item.title}" loading="lazy">
+      <img src="${item.image}" alt="${item.title}" loading="lazy" decoding="async">
       <div class="card-body">
         <div class="card-cat">${item.category}</div>
         <h3>${item.title}</h3>
